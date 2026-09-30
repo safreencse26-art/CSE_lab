@@ -1,2 +1,2 @@
-#pscb_lab
+#pscp_lab
 Problem solving using c program 
