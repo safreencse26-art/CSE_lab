@@ -1,2 +1,2 @@
-# CSE_lab
+#pscb_lab
 Problem solving using c program 
